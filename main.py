@@ -397,7 +397,6 @@ class Main():
         self.ICECOLOR= "#E3F6FF"
         self.LIGHTRED = "#ffc6c4"
         root.config(bg = self.PURPLE)
-        print(self.username)
 
         
         
