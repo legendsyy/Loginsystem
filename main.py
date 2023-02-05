@@ -256,7 +256,7 @@ class RegisterSystem():
         
     
     
-    def RegisterGui(self): # Registergui 
+    def RegisterGui(self): # RegisterGui 
         self.DARKPURPLE = "#404258"
         self.PURPLE = "#474E68"
         self.LIGHTPURPLE= "#6B728E"
